@@ -1,11 +1,10 @@
 #include<stdio.h>
-#include<conio.h>
 int main()
 {
 int a,i,n;
 printf("enter the number");
 scanf("%d",&a);
-for(i=0;i<=1;i++)
+for(i=0;i<=n;i++)
 {
 a=n*1;
 }
