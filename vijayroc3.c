@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 int main ()
 {
 int a[10],i,j,max,min;
@@ -21,6 +20,6 @@ a[j]=temp;
 }
 }
 printf("%d",&a[0]);
-return 0;
+getch();
 }
 }
