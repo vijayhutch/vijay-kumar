@@ -7,8 +7,7 @@ scanf("%d",&a,&b);
 if(min>=60)
 {
 
-hour=min/60;
-min=min%60
+hr=min%60
 }
 printf("%d,%d",hour,min);
 getch();
