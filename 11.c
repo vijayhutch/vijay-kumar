@@ -13,4 +13,6 @@ i++
 }
 }
 printf("%d",d);
+  getch();
+  return 0;
 }
